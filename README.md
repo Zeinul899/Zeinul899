@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm <a href="https://linkedin.com/in/yourusername">[Muhammad fari syaddad]</a> 👋</h1>
+  <h1>Hi, I'm <a href="https://linkedin.com/in/yourusername">[Muhammad faris syaddad]</a> 👋</h1>
   <h3>⚡ Full-Stack Developer | Mobile & Backend Engineer</h3>
 
   <p>
